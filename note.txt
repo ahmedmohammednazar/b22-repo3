@@ -1,0 +1,7 @@
+we just publish our local git repo
+we remote GitHun.com repostory
+few things happen : 
+1. Iy automatically created new remote repo
+under your GitHub.com account
+2. Made the connection with your local git repo
+3. Added all your commit to remote repo
